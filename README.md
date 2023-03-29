@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Repositorio de prueba del M2 de Henry
+Este protecto es una prueba de como crear un repositorio y clonar desde github a mi computadora
