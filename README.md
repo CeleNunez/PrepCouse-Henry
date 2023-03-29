@@ -1,1 +1,1 @@
-Este protecto es una prueba de como crear un repositorio y clonar desde github a mi computadora
+Este protecto es una prueba 2 de como crear un repositorio y clonar desde github a mi computadora
